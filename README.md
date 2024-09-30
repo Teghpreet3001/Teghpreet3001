@@ -2,4 +2,4 @@
 - currently: ml research @ gtri & gt fsil 
 - previously: software engineer intern @ capital one
 - interested in: ai/ml, full stack, product, impact
-- reach out for coffee @ [tmago3@gatech.edu](mailto:tmago3@gatech.edu) or check out my [Playground](https://www.linkedin.com/in/teghpreet-singh-mago/).
+- reach out for coffee @ [tmago3@gatech.edu](mailto:tmago3@gatech.edu) or check out my [playground](https://www.linkedin.com/in/teghpreet-singh-mago/).
