@@ -1,6 +1,6 @@
 - studying: computer science (ai + hci) @ georgia tech
-- currently: software engineer intern @ uber
+- currently: software engineer intern @ linkedin
 - researching: llms for findata @ gt fsil & autonomous robots @ gtri
-- previously: software engineer intern @ capital one
+- previously: software engineer intern @ uber & capital one
 - interested in: ai/ml, systems, infra, full stack, product, impact
 - reach out for coffee @ [tmago3@gatech.edu](mailto:tmago3@gatech.edu) or check out my [playground](https://www.linkedin.com/in/teghpreet-singh-mago/).
