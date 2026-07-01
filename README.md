@@ -1,5 +1,5 @@
 - studying: computer science (ai + hci) @ georgia tech
-- currently: finishing this degree
+- currently: machine learning intern @ reddit
 - researching: llms for findata @ gt fsil & autonomous robots @ gtri
 - previously: software engineer intern @ linkedin, uber & capital one
 - interested in: ai/ml, systems, infra, full stack, product, impact
