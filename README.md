@@ -1,4 +1,4 @@
-- studying: computer science (ai + hci) @ georgia tech
+- studying: computer science (machine learning) @ georgia tech
 - currently: machine learning intern @ reddit
 - researching: llms for findata @ gt fsil & autonomous robots @ gtri
 - previously: software engineer intern @ linkedin, uber & capital one
